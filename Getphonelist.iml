@@ -28,5 +28,14 @@
     </orderEntry>
     <orderEntry type="library" name="com.jameskleeh:excel-builder:0.4.3" level="project" />
     <orderEntry type="library" name="org.apache.poi:poi-ooxml:4.1.0" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/ooxml-schemas-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
